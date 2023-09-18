@@ -1,1 +1,1 @@
-# Test_repo_for_scalar
+# Scalar Open Source September Challenge 18
